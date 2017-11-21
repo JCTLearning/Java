@@ -4,7 +4,7 @@ package me.specifies.Main;
 *
 * All of the Java packages will be using "specifies" as a package attri. Two other Programmers that deserve credit are:
 * Tre, UndercoverPanda
-*
+* If there are any methods that use "plugins.panda" they will be rewritten to "me.specifies" at the end of the rewrite.
 */
 import java.util.ArrayList;
 import org.bukkit.Bukkit;
