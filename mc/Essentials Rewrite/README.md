@@ -1,0 +1,2 @@
+# Essentials Rewrote
+This Folder contains any file involved in the full rewrite of the popular plugin "Essentials." Their public repository can be found here: https://github.com/drtshock/Essentials/ The whole purpose of this rewrite it to make Data management more efficient and add "aesthetics" to the plugin.
