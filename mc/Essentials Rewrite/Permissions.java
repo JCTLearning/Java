@@ -1,4 +1,4 @@
-package plugins.Panda.FEssentials.Main;
+package me.specifies.Main;
 
 public enum Permissions
 {
